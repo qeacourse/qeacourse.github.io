@@ -43,7 +43,7 @@
       <div id="ikqk" class="gpd-container">
         <div id="ipkp" class="gdp-row">
           <div id="iglc" class="cell">
-            <a id="i9hyh" href="https://techcrunch.com/" class="gpd-link-box"
+            <a id="i9hyh" href="https://www.olin.edu/" class="gpd-link-box"
               ><img
                 id="iqbgi"
                 src="https://cdn.grapedrop.com/u4fbe2c97ad0c4c88845e51665fd55489/0548723d9212408ea77c7982cd41c626_olinlogo.png"
@@ -70,7 +70,7 @@
               <div id="i8fo2" class="cell gpd-navbar__item">
                 <a
                   id="ioibb"
-                  href="https://ieeexplore.ieee.org/document/8658526"
+                  href="https://qeacourse.github.io/LandingPage/"
                   class="gpd-navbar__item-link"
                   >Student Work</a
                 >
@@ -268,7 +268,7 @@
         <div id="ityo5i"></div>
         <a
           id="ighy17"
-          href="//5de6f07.grapedrop.website"
+          href="https://olin.edu"
           data-anim-type="fadeInUp"
           class="gpd-link-box"
           ><img
@@ -296,7 +296,7 @@
         </div>
         <div id="izmng4" class="footer-item">
           <a
-            href="https://ieeexplore.ieee.org/document/8658526"
+            href="https://qeacourse.github.io/LandingPage/"
             id="ibl7ii"
             data-anim-type="fadeInUp"
             class="footer-link"
@@ -304,28 +304,28 @@
           >
         </div>
         <div id="i5b4je" data-anim-type="fadeInUp" class="footer-socials">
-          <a id="im0re" href="" class="gpd-link-box"
+          <a id="im0re" href="https://www.facebook.com/OlinCollege" class="gpd-link-box"
             ><span id="i5rnt" class="gpd-icon footer-link-svg"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                 <path
                   d="M5 3h14c1.1 0 2 .9 2 2v14c0 1.1-.9 2-2 2H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2m13 2h-2.5C13.57 5 12 6.57 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9c0-.55.45-1 1-1h2V5z"
                 ></path></svg></span
           ></a>
-          <a href="" id="i91sl" class="gpd-link-box"
+          <a href="https://www.instagram.com/olincollege/" id="i91sl" class="gpd-link-box"
             ><span id="io3eq" class="gpd-icon footer-link-svg"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                 <path
                   d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4c0 3.2-2.6 5.8-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8C2 4.6 4.6 2 7.8 2m-.2 2C5.61 4 4 5.61 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8c1.99 0 3.6-1.61 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5M12 7c2.76 0 5 2.24 5 5s-2.24 5-5 5-5-2.24-5-5 2.24-5 5-5m0 2c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
                 ></path></svg></span
           ></a>
-          <a href="" id="i4fgn" class="gpd-link-box"
+          <a href="https://twitter.com/olincollege?lang=en" id="i4fgn" class="gpd-link-box"
             ><span id="iud9y" class="gpd-icon footer-link-svg"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                 <path
                   d="M17.71 9.33c.48-.4 1.04-.88 1.29-1.41-.41.21-.9.34-1.44.41.5-.36.91-.83 1.12-1.47-.52.28-1.05.52-1.71.64-1.55-1.87-5.26-.35-4.6 2.45-2.61-.16-4.2-1.34-5.52-2.79-.75 1.22-.1 3.07.79 3.58-.46-.03-.81-.17-1.14-.33.04 1.54.89 2.28 2.08 2.68-.36.07-.76.09-1.14.03.37 1.07 1.14 1.74 2.46 1.88-.9.76-2.56 1.29-3.9 1.08 1.15.73 2.46 1.31 4.28 1.23 4.41-.2 7.36-3.36 7.43-7.98M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2z"
                 ></path></svg></span
           ></a>
-          <a href="" id="i7y4o" class="gpd-link-box"
+<!--          <a href="" id="i7y4o" class="gpd-link-box"
             ><span id="ibe0m" class="gpd-icon footer-link-svg"
               ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                 <path
@@ -338,7 +338,7 @@
                 <path
                   d="M3 4c-1.11 0-2 .89-2 2v12c0 1.1.9 2 2 2h11v-2H3V8.37l8 4.99 8-4.99V13h2V6c0-1.1-.9-2-2-2H3m0 2h16l-8 5-8-5m16 9v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2z"
                 ></path></svg></span
-          ></a>
+          ></a> -->
         </div>
         <div id="iz7984"></div>
       </div>
