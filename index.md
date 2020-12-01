@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8" />
@@ -7,7 +6,6 @@
       name="viewport"
       content="width=device-width, initial-scale=1, viewport-fit=cover"
     />
-
     <script>
       window._formUrl = "";
       window.__gRecapKey = "";
@@ -24,7 +22,6 @@
       src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"
       onload="postJQ()"
     ></script>
-
     <style>
       body {
         margin: 0;
@@ -37,7 +34,6 @@
         opacity: 0;
       }
     </style>
-
     <link rel="stylesheet" href="base.css" />
     <link rel="stylesheet" href="index-style.css" />
   </head>
@@ -420,7 +416,6 @@
         }.bind(items[i])());
       }
     </script>
-
     <script>
       !(function (e) {
         var t = {};
@@ -613,7 +608,6 @@
         },
       });
     </script>
-
     <style>
       a.page-brand-badge {
         border-radius: 3px !important;
@@ -631,7 +625,6 @@
       }
     </style>
     <
-
     <script
       async
       src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"
