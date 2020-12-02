@@ -62,7 +62,7 @@
               <div id="ijrzf" class="cell gpd-navbar__item">
                 <a
                   id="izak6"
-                  href="https://ieeexplore.ieee.org/document/8658526"
+                  href="https://qeacourse.github.io/LandingPage/"
                   class="gpd-navbar__item-link"
                   >About QEA</a
                 >
@@ -78,7 +78,7 @@
               <div class="cell gpd-navbar__item">
                 <a
                   id="i0y7i"
-                  href="https://ieeexplore.ieee.org/document/8658526"
+                  href="https://qeacourse.github.io/LandingPage/"
                   class="gpd-navbar__item-link"
                   >Contact Us</a
                 >
