@@ -1,633 +1,211 @@
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, viewport-fit=cover"
-    />
-    <script>
-      window._formUrl = "";
-      window.__gRecapKey = "";
-      window.postJQCnt = [];
-      window.postJQ = function () {
-        window._jqloaded = 1;
-        postJQCnt.forEach(function (fn) {
-          fn && fn();
-        });
-      };
-    </script>
-    <script
-      async
-      src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"
-      onload="postJQ()"
-    ></script>
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden;
-      }
-    </style>
-    <style data-css-anim>
-      [data-anim-type]:not([data-anim-done]) {
-        opacity: 0;
-      }
-    </style>
-    <link rel="stylesheet" href="base.css" />
-    <link rel="stylesheet" href="index-style.css" />
-  </head>
+<!DOCTYPE html>
+<html  >
+<head>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/olinlogo.png" type="image/x-icon">
+  <meta name="description" content="">
 
-  <body>
-    <div id="c1263" class="gpd-navbar">
-      <div id="ikqk" class="gpd-container">
-        <div id="ipkp" class="gdp-row">
-          <div id="iglc" class="cell">
-            <a id="i9hyh" href="https://www.olin.edu/" class="gpd-link-box"
-              ><img
-                id="iqbgi"
-                src="https://cdn.grapedrop.com/u4fbe2c97ad0c4c88845e51665fd55489/0548723d9212408ea77c7982cd41c626_olinlogo.png"
-            /></a>
-          </div>
-          <div id="igsl" class="cell gpd-navbar__menu">
-            <a id="imgk" href="" class="gpd-icon"
-              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path
-                  d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"
-                ></path></svg
-            ></a>
-          </div>
-          <div id="ixeqi" class="cell gpd-navbar__items">
-            <div id="iezcd" class="gdp-row gpd-navbar__items-grid">
-              <div id="ijrzf" class="cell gpd-navbar__item">
-                <a
-                  id="izak6"
-                  href="https://qeacourse.github.io/LandingPage/"
-                  class="gpd-navbar__item-link"
-                  >About QEA</a
-                >
-              </div>
-              <div id="i8fo2" class="cell gpd-navbar__item">
-                <a
-                  id="ioibb"
-                  href="https://qeacourse.github.io/LandingPage/"
-                  class="gpd-navbar__item-link"
-                  >Student Work</a
-                >
-              </div>
-              <div class="cell gpd-navbar__item">
-                <a
-                  id="i0y7i"
-                  href="https://qeacourse.github.io/LandingPage/"
-                  class="gpd-navbar__item-link"
-                  >Contact Us</a
-                >
-              </div>
+
+  <title>Home</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+
+
+
+</head>
+<body>
+  <section class="menu cid-sh7MMfmVZn" once="menu" id="menu2-6">
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
-          </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="index.html">
+                        <img src="assets/images/olinlogo.png" alt="Mobirise" title="" style="height: 3.8rem;">
+                    </a>
+                </span>
+            </div>
         </div>
-      </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-black display-4" href="https://mobirise.co" aria-expanded="false" data-toggle="dropdown-submenu">
+                        Modules</a><div class="dropdown-menu"><a class="dropdown-item text-black display-4" href="https://qeacourse.github.io/AFaceInTheCrowd/" aria-expanded="false" target="_blank">A Face in the Crowd</a><a class="dropdown-item text-black display-4" href="https://qeacourse.github.io/RoboNinjaWarrior/" aria-expanded="false" target="_blank">Robo Ninja Warrior</a><a class="dropdown-item text-black display-4" href="https://mobirise.co" aria-expanded="false" target="_blank">Robo Ninja Warrior</a></div></li><li class="nav-item"><a class="nav-link link text-black display-4" href="page2.html">
+                        Student Work</a></li>
+                <li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="page1.html">Contact Us
+                    </a>
+                </li></ul>
+        </div>
+    </nav>
+</section>
+
+<section class="engine"><a href="https://mobirise.info/d">site maker</a></section><section class="header7 cid-sh7BFjUpK4 mbr-fullscreen mbr-parallax-background" id="header7-1">
+    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(35, 35, 35);">
     </div>
-    <section id="iomr5" class="gpd-section">
-      <div id="ir7vl" class="gpd-container">
-        <div id="ipyfv" class="gdp-row">
-          <div id="id5vk" data-anim-type="fadeInLeft" class="cell">
-            <h1 id="it1eh">
-              QEA in a Nutshell
-              <br />
-            </h1>
-            <div id="ib9jg" class="gpd-text">
-              <div style="text-align: center">
-                Quantitative Engineering Analysis (QEA) is an interdisciplinary,
-                integrated, course for students to become proficient in learning
-                new technical content and successfully completing projects that
-                have a significant analytical component to them. This video
-                summarizes some of the rationale and specific pedagogy behind
-                the course.
-                <br />
-              </div>
+    <div class="container">
+        <div class="media-container-row">
+            <div class="media-content align-right">
+                <h1 class="mbr-section-title mbr-white pb-3 mbr-fonts-style display-1">QEA in a Nutshell</h1>
+                <div class="mbr-section-text mbr-white pb-3">
+                    <p class="mbr-text mbr-fonts-style display-5">
+                        Quantitative Engineering Analysis (QEA) is an interdisciplinary, integrated, course for students to become proficient in learning new technical content and successfully completing projects that have a significant analytical component to them. This video summarizes some of the rationale and specific pedagogy behind the course.
+                    </p>
+                </div>
             </div>
-            <div id="igk9h"></div>
-          </div>
-          <div id="izqhc" class="cell">
-            <iframe
-              allowfullscreen="allowfullscreen"
-              id="i0mkgd"
-              src="https://www.youtube-nocookie.com/embed/MFL4gd2IMm8?"
-            ></iframe>
-          </div>
+            <div class="mbr-figure" style="width: 105%;"><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/MFL4gd2IMm8?rel=0&amp;amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;playlist=MFL4gd2IMm8" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
         </div>
-      </div>
-    </section>
-    <section id="ime3y" class="gpd-section">
-      <div id="iuvhp" class="gpd-container">
-        <h1 id="iivo43" data-anim-type="fadeIn">
-          Other Videos
-          <br />
-        </h1>
-        <div id="igjlz"></div>
-        <div id="ihndy" data-anim-type="fadeIn" class="gdp-row">
-          <div id="i83qq" class="cell">
-            <video
-              allowfullscreen="allowfullscreen"
-              id="ibw432"
-              src="https://olin-design-principles.s3.amazonaws.com/4_QEA_Crossing%20Disciplinary%20Boundaries.mp4"
-              controls="controls"
-            ></video>
-            <h1 id="iknz6">Bridging Math, Physics, and Engineering</h1>
-          </div>
-          <div id="ixebn" class="cell">
-            <video
-              allowfullscreen="allowfullscreen"
-              id="i08xvi"
-              src="https://olin-design-principles.s3.amazonaws.com/5_QEA_Making%20Thinking%20Visible.mp4"
-              controls="controls"
-            ></video>
-            <h1 id="ii7bw">
-              Dry Erase Board Action
-              <br />
-              <br />
-            </h1>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section id="imeqzr" data-anim-type="slideInLeft" class="gpd-section">
-      <div id="ipqrdg" class="gpd-container">
-        <h1 id="i17a8b">
-          Modules
-          <br />
-        </h1>
-        <div id="ix2fgx" class="gpd-text">
-          We do a variety of different modules in QEA, three of which are
-          described below. Click the images for more information!
-          <br />
-        </div>
-        <div id="iw1g4u" class="gdp-row">
-          <div id="iwbl2v" class="cell">
-            <a
-              id="itv3o2"
-              href="https://qeacourse.github.io/AFaceInTheCrowd/"
-              target="_blank"
-              class="gpd-link-box"
-              ><img
-                src="https://cdn.grapedrop.com/u4fbe2c97ad0c4c88845e51665fd55489/b3e88e3325ec476ab6c8c8c276ce9367_faces_collage.png"
-                id="ispy9l"
-            /></a>
-            <div id="iqtz2f" class="gpd-text">
-              &nbsp; A Face in the Crowd
-              <br />
+    </div>
+</section>
+
+<section class="header6 cid-sisDnRkpbl mbr-fullscreen" data-bg-video="https://youtu.be/MFL4gd2IMm8" id="header6-q">
+    <div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(35, 35, 35);">
+    </div>
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-1">
+                    <a href="https://youtu.be/MFL4gd2IMm8" target="_blank"><strong>QEA</strong></a> IN A NUTSHELL</h1>
+                <p class="mbr-text align-center pb-3 mbr-fonts-style display-5"><strong>Quantitative Engineering Analysis (QEA) is an interdisciplinary, integrated, course for students to become proficient in learning new technical content and successfully completing projects that have a significant analytical component to them. This video summarizes some of the rationale and specific pedagogy behind the course.</strong><br></p>
             </div>
-            <div class="gpd-text" id="i0wrd5">
-              The module "A Face in the Crowd" introduces the major ideas in
-              linear algebra with a focus on intuition building and application
-              in an effort to build deep understanding.
-              <br />
-              <br />The module is organized around the engineering challenging
-              of building a facial recognition system.
-              <br />
-              <br />
+        </div>
+    </div>
+    <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
+        <a href="#next">
+            <i class="mbri-down mbr-iconfont"></i>
+        </a>
+    </div>
+</section>
+
+<section class="features3 cid-sh7GojIXhX" id="features3-5">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/faces-collage.png" alt="Mobirise" title="">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            A Face in the Crowd</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            The module "A Face in the Crowd" introduces the major ideas in linear algebra with a focus on intuition building and application in an effort to build deep understanding. The module is organized around the engineering challenging of building a facial recognition system.
+                        </p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://qeacourse.github.io/AFaceInTheCrowd/" class="btn btn-primary display-4" target="_blank">
+                            Learn More
+                        </a></div>
+                </div>
             </div>
-          </div>
-          <div id="ifhg6g" class="cell">
-            <a
-              id="ilnj09"
-              href="https://techcrunch.com/"
-              target="_blank"
-              class="gpd-link-box"
-              ><img
-                src="https://cdn.grapedrop.com/uebe33058c580403ba062418fd8e8e3df/2cde8e30a25f439eb2c6a35a0f063be3_lunaris_5.png"
-                id="i2rn4d"
-            /></a>
-            <div class="gpd-text" id="inm8n">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Module
-              Number Three
-              <br />
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/background2.jpg" alt="Mobirise">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            A Face in the Crowd</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            The module introduces the major ideas in linear algebra with a focus on intuition building and application in an effort to build deep understanding. The module is organized around the engineering challenging of building a facial recognition system.
+                        </p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://qeacourse.github.io/AFaceInTheCrowd/" class="btn btn-primary display-4" target="_blank">
+                            Learn More
+                        </a></div>
+                </div>
             </div>
-            <div class="gpd-text" id="i2qkm">
-              The module "A Face in the Crowd" introduces the major ideas in
-              linear algebra with a focus on intuition building and application
-              in an effort to build deep understanding.
-              <br />
-              <br />The module is organized around the engineering challenging
-              of building a facial recognition system.
-              <br />
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/annie-nina-mount-doom.jpg" alt="Mobirise" title="">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            Robo Ninja Warrior</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            The Robo Ninja Warrior module teaches math, physics, and engineering content through fun, hands-on, and customizable challenges. The module includes three challenges that provide scaffolded opportunities to master new theory and apply it to programming a mobile robot to accomplish a task.
+                        </p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://qeacourse.github.io/RoboNinjaWarrior/" class="btn btn-primary display-4" target="_blank">
+                            Learn More
+                        </a></div>
+                </div>
             </div>
-          </div>
-          <div id="i9kjwq" class="cell">
-            <a
-              id="i3jiig"
-              href="https://qeacourse.github.io/RoboNinjaWarrior/"
-              target="_blank"
-              class="gpd-link-box"
-              ><img
-                src="https://cdn.grapedrop.com/u4fbe2c97ad0c4c88845e51665fd55489/a60bdeb50889411187a6800a4275ecfb_annie_nina_mount_doom.jpg"
-                id="ivmm5y"
-            /></a>
-            <div id="ipkohr" class="gpd-text">
-              Robo Ninja Warrior
-              <br />
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section info2 cid-sh7PrsfuA3" id="info2-8">
+    <div class="container">
+        <div class="row main justify-content-center">
+            <div class="media-container-column col-12 col-lg-3 col-md-4">
+                <div class="mbr-section-btn align-left py-4"><a class="btn btn-primary display-4" href="https://ieeexplore.ieee.org/document/8658526" target="_blank">Learn More</a></div>
             </div>
-            <div class="gpd-text" id="isvbuk">
-              The Robo Ninja Warrior module teaches math, physics, and
-              engineering content through fun, hands-on, and customizable
-              challenges. The module includes three challenges that provide
-              scaffolded opportunities to master new theory and apply it to
-              programming a mobile robot to accomplish a task.
-              <br />
+            <div class="media-container-column title col-12 col-lg-7 col-md-6">
+                <h2 class="align-right mbr-bold mbr-white pb-3 mbr-fonts-style display-2">Other Documents on QEA
+</h2>
+                <h3 class="mbr-section-subtitle align-right mbr-light mbr-white mbr-fonts-style display-5">S. Govindasamy, R.J. Christianson, J. Geddes, C. Lee, S. Michalka, P. Ruvolo, M.H. Somerville, A.C. Strong: <br><br><strong>A Contextualized, Experiential Learning Approach to Quantitative Engineering Analysis, FIE 2018.</strong></h3>
             </div>
-          </div>
         </div>
-      </div>
-    </section>
-    <section id="iu1nxd" class="gpd-section">
-      <div id="ir4xbg" class="gpd-container">
-        <h3 id="ivcf8s" data-anim-type="fadeInUp" class="footer-item-title">
-          Other Documents on QEA
-          <br />
-        </h3>
-        <div id="ipkygg" data-anim-type="fadeInUp" class="footer-details">
-          S. Govindasamy, R.J. Christianson, J. Geddes, C. Lee, S. Michalka, P.
-          Ruvolo, M.H. Somerville, A.C. Strong:
-          <br />
-          <strong
-            ><br />A Contextualized, Experiential Learning Approach to
-            Quantitative Engineering Analysis, FIE 2018.</strong
-          >
-          <br />
+    </div>
+</section>
+
+<section class="cid-sisJGp7TAK" id="social-buttons2-s">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-md-8 align-center">
+                <h2 class="pb-3 mbr-fonts-style display-2">MORE ABOUT OLIN?</h2>
+                <div class="social-list pl-0 mb-0">
+                    <a href="https://twitter.com/OlinCollege" target="_blank">
+                        <span class="px-2 mbr-iconfont mbr-iconfont-social socicon-twitter socicon"></span>
+                    </a>
+                    <a href="https://www.facebook.com/OlinCollege" target="_blank">
+                        <span class="px-2 mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
+                    </a>
+                    <a href="https://www.instagram.com/olincollege/" target="_blank">
+                        <span class="px-2 mbr-iconfont mbr-iconfont-social socicon-instagram socicon"></span>
+                    </a>
+                    <a href="https://www.youtube.com/c/mobirise" target="_blank">
+                    </a>
+                    <a href="https://www.behance.net/Mobirise" target="_blank">
+                    </a>
+                </div>
+            </div>
         </div>
-        <a
-          id="iu459i"
-          href="https://ieeexplore.ieee.org/document/8658526"
-          target="_blank"
-          class="gpd-link-box"
-          ><div class="gpd-text" id="iel9hg">
-            Learn More
-            <br /></div
-        ></a>
-        <div id="ityo5i"></div>
-        <a
-          id="ighy17"
-          href="https://olin.edu"
-          data-anim-type="fadeInUp"
-          class="gpd-link-box"
-          ><img
-            id="i3kgz5"
-            src="https://cdn.grapedrop.com/u4fbe2c97ad0c4c88845e51665fd55489/0548723d9212408ea77c7982cd41c626_olinlogo.png"
-        /></a>
-        <div id="ifwbaf"></div>
-        <div id="ijsp0x" class="footer-item">
-          <a
-            href="https://ieeexplore.ieee.org/document/8658526"
-            id="irwybg"
-            data-anim-type="fadeInUp"
-            class="footer-link"
-            >Student Work</a
-          >
-        </div>
-        <div id="ixn96e" class="footer-item">
-          <a
-            href="https://ieeexplore.ieee.org/document/8658526"
-            id="ikve81"
-            data-anim-type="fadeInUp"
-            class="footer-link"
-            >Contact Us</a
-          >
-        </div>
-        <div id="izmng4" class="footer-item">
-          <a
-            href="https://qeacourse.github.io/LandingPage/"
-            id="ibl7ii"
-            data-anim-type="fadeInUp"
-            class="footer-link"
-            >About QEA</a
-          >
-        </div>
-        <div id="i5b4je" data-anim-type="fadeInUp" class="footer-socials">
-          <a id="im0re" href="https://www.facebook.com/OlinCollege" class="gpd-link-box"
-            ><span id="i5rnt" class="gpd-icon footer-link-svg"
-              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path
-                  d="M5 3h14c1.1 0 2 .9 2 2v14c0 1.1-.9 2-2 2H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2m13 2h-2.5C13.57 5 12 6.57 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9c0-.55.45-1 1-1h2V5z"
-                ></path></svg></span
-          ></a>
-          <a href="https://www.instagram.com/olincollege/" id="i91sl" class="gpd-link-box"
-            ><span id="io3eq" class="gpd-icon footer-link-svg"
-              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path
-                  d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4c0 3.2-2.6 5.8-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8C2 4.6 4.6 2 7.8 2m-.2 2C5.61 4 4 5.61 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8c1.99 0 3.6-1.61 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5M12 7c2.76 0 5 2.24 5 5s-2.24 5-5 5-5-2.24-5-5 2.24-5 5-5m0 2c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"
-                ></path></svg></span
-          ></a>
-          <a href="https://twitter.com/olincollege?lang=en" id="i4fgn" class="gpd-link-box"
-            ><span id="iud9y" class="gpd-icon footer-link-svg"
-              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path
-                  d="M17.71 9.33c.48-.4 1.04-.88 1.29-1.41-.41.21-.9.34-1.44.41.5-.36.91-.83 1.12-1.47-.52.28-1.05.52-1.71.64-1.55-1.87-5.26-.35-4.6 2.45-2.61-.16-4.2-1.34-5.52-2.79-.75 1.22-.1 3.07.79 3.58-.46-.03-.81-.17-1.14-.33.04 1.54.89 2.28 2.08 2.68-.36.07-.76.09-1.14.03.37 1.07 1.14 1.74 2.46 1.88-.9.76-2.56 1.29-3.9 1.08 1.15.73 2.46 1.31 4.28 1.23 4.41-.2 7.36-3.36 7.43-7.98M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2z"
-                ></path></svg></span
-          ></a>
-<!--          <a href="" id="i7y4o" class="gpd-link-box"
-            ><span id="ibe0m" class="gpd-icon footer-link-svg"
-              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path
-                  d="M9.04 21.54c.96.29 1.93.46 2.96.46 5.52 0 10-4.48 10-10S17.52 2 12 2 2 6.48 2 12c0 4.25 2.67 7.9 6.44 9.34-.09-.78-.18-2.07 0-2.96l1.15-4.94s-.29-.58-.29-1.5c0-1.38.86-2.41 1.84-2.41.86 0 1.26.63 1.26 1.44 0 .86-.57 2.09-.86 3.27-.17.98.52 1.84 1.52 1.84 1.78 0 3.16-1.9 3.16-4.58 0-2.4-1.72-4.04-4.19-4.04-2.82 0-4.48 2.1-4.48 4.31 0 .86.28 1.73.74 2.3.09.06.09.14.06.29l-.29 1.09c0 .17-.11.23-.28.11-1.28-.56-2.02-2.38-2.02-3.85 0-3.16 2.24-6.03 6.56-6.03 3.44 0 6.12 2.47 6.12 5.75 0 3.44-2.13 6.2-5.18 6.2-.97 0-1.92-.52-2.26-1.13l-.67 2.37c-.23.86-.86 2.01-1.29 2.7v-.03z"
-                ></path></svg></span
-          ></a>
-          <a href="" id="i8bfk" class="gpd-link-box"
-            ><span id="iozha" class="gpd-icon footer-link-svg"
-              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                <path
-                  d="M3 4c-1.11 0-2 .89-2 2v12c0 1.1.9 2 2 2h11v-2H3V8.37l8 4.99 8-4.99V13h2V6c0-1.1-.9-2-2-2H3m0 2h16l-8 5-8-5m16 9v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2z"
-                ></path></svg></span
-          ></a> -->
-        </div>
-        <div id="iz7984"></div>
-      </div>
-    </section>
-    <script>
-      var items = document.querySelectorAll("#imgk");
-      for (var i = 0, len = items.length; i < len; i++) {
-        (function () {
-          var t,
-            e = 0,
-            n = "gjs-collapse",
-            r = "max-height",
-            i = "ease-in-out",
-            o = 0.25,
-            a = (function () {
-              var t,
-                e = document.createElement("void"),
-                n = {
-                  transition: "transitionend",
-                  OTransition: "oTransitionEnd",
-                  MozTransition: "transitionend",
-                  WebkitTransition: "webkitTransitionEnd",
-                };
-              for (t in n) if (void 0 !== e.style[t]) return n[t];
-            })(),
-            s = function (t) {
-              e = 1;
-              var n = (function (t) {
-                  var e = window.getComputedStyle(t),
-                    n = e.display,
-                    i = parseInt(e[r]);
-                  if ("none" !== n && "0" !== i) return t.offsetHeight;
-                  (t.style.height = "auto"),
-                    (t.style.display = "block"),
-                    (t.style.position = "absolute"),
-                    (t.style.visibility = "hidden");
-                  var o = t.offsetHeight;
-                  return (
-                    (t.style.height = ""),
-                    (t.style.display = ""),
-                    (t.style.position = ""),
-                    (t.style.visibility = ""),
-                    o
-                  );
-                })(t),
-                a = t.style;
-              (a.display = "block"),
-                (a.transition = r + " " + o + "s " + i),
-                (a.overflowY = "hidden"),
-                "" == a[r] && (a[r] = 0),
-                0 == parseInt(a[r])
-                  ? ((a[r] = "0"),
-                    setTimeout(function () {
-                      a[r] = n + "px";
-                    }, 10))
-                  : (a[r] = "0");
-            };
-          n in this ||
-            this.addEventListener("click", function (n) {
-              if ((n.preventDefault(), !e)) {
-                var i = this.closest(".gpd-navbar").querySelector(
-                  ".gpd-navbar__items"
-                );
-                s(i),
-                  t ||
-                    (i.addEventListener(a, function () {
-                      e = 0;
-                      var t = i.style;
-                      0 == parseInt(t[r]) && ((t.display = ""), (t[r] = ""));
-                    }),
-                    (t = 1));
-              }
-            }),
-            (this[n] = 1);
-        }.bind(items[i])());
-      }
-    </script>
-    <script>
-      !(function (e) {
-        var t = {};
-        function n(r) {
-          if (t[r]) return t[r].exports;
-          var o = (t[r] = { i: r, l: !1, exports: {} });
-          return e[r].call(o.exports, o, o.exports, n), (o.l = !0), o.exports;
-        }
-        return (
-          (n.m = e),
-          (n.c = t),
-          (n.d = function (e, t, r) {
-            n.o(e, t) ||
-              Object.defineProperty(e, t, { enumerable: !0, get: r });
-          }),
-          (n.r = function (e) {
-            "undefined" != typeof Symbol &&
-              Symbol.toStringTag &&
-              Object.defineProperty(e, Symbol.toStringTag, { value: "Module" }),
-              Object.defineProperty(e, "__esModule", { value: !0 });
-          }),
-          (n.t = function (e, t) {
-            if ((1 & t && (e = n(e)), 8 & t)) return e;
-            if (4 & t && "object" == typeof e && e && e.__esModule) return e;
-            var r = Object.create(null);
-            if (
-              (n.r(r),
-              Object.defineProperty(r, "default", { enumerable: !0, value: e }),
-              2 & t && "string" != typeof e)
-            )
-              for (var o in e)
-                n.d(
-                  r,
-                  o,
-                  function (t) {
-                    return e[t];
-                  }.bind(null, o)
-                );
-            return r;
-          }),
-          (n.n = function (e) {
-            var t =
-              e && e.__esModule
-                ? function () {
-                    return e["default"];
-                  }
-                : function () {
-                    return e;
-                  };
-            return n.d(t, "a", t), t;
-          }),
-          (n.o = function (e, t) {
-            return Object.prototype.hasOwnProperty.call(e, t);
-          }),
-          (n.p = "/"),
-          n((n.s = 8))
-        );
-      })({
-        8: function (e, t, n) {
-          e.exports = n("85F9");
-        },
-        "85F9": function (e, t) {
-          var n = void 0 !== document.body.style.animationName,
-            r = function (e, t, n) {
-              return e.addEventListener(t, n);
-            },
-            o = function (e, t) {
-              for (var n = 0, r = (e || []).length; n < r; n++) t(e[n]);
-            };
-          setTimeout(function () {
-            var e = "data-anim-type",
-              t = "data-anim-done",
-              o = "animationstart",
-              i = 100,
-              a =
-                window.requestAnimationFrame ||
-                function (e) {
-                  return window.setTimeout(e, 16.66);
-                },
-              u = document.querySelectorAll("[".concat(e, "]")),
-              c = function (e) {
-                var t = e.getBoundingClientRect(),
-                  n = t.top,
-                  r = t.bottom,
-                  o = window.innerHeight,
-                  a = document.documentElement.clientHeight,
-                  u = o || a;
-                return (
-                  (n <= 0 && r >= i) ||
-                  (r >= u && n <= u - i) ||
-                  (n >= 0 && r <= u)
-                );
-              },
-              d = function e(n) {
-                var r = n.target;
-                r.setAttribute(t, 1),
-                  (function (e, t, n) {
-                    e.removeEventListener(t, n);
-                  })(r, o, e);
-              };
-            function f() {
-              for (var n = 0, i = u.length; n < i; n++) {
-                var a = u[n];
-                !a.getAttribute(t) &&
-                  c(a) &&
-                  ((a.style.animationName = a.getAttribute(e)), r(a, o, d));
-              }
-            }
-            if (n)
-              window.addEventListener("scroll", function () {
-                return a(f);
-              }),
-                f();
-            else {
-              var l = document.querySelector("style[data-css-anim]");
-              l && (l.innerHTML = "");
-            }
-          });
-          var i;
-          (i = function () {
-            var e = "data-form-state",
-              t = $("[".concat(e, "]"));
-            t.hide();
-            var n = function (n, r) {
-              n && n.preventDefault();
-              var o = $(r),
-                i = (r.getAttribute("action") || window._formUrl || "").trim(),
-                a = new FormData(r),
-                u = {},
-                c = r.getAttribute("name"),
-                d = r.getAttribute("data-redirect");
-              for (var f in (c && a.append("__name", c),
-              a.append("__meta", JSON.stringify(r.__meta || {})),
-              a.append("__ua", navigator.userAgent),
-              a.append("__lang", navigator.language || navigator.userLanguage),
-              a.append(
-                "__tz",
-                Intl && Intl.DateTimeFormat().resolvedOptions().timeZone
-              ),
-              o.find("[type=radio], [type=checkbox]").each(function () {
-                var e = this.name;
-                if (this.checked || u[e]) return (u[e] = 1), void 0;
-                u[e] = 0;
-              }),
-              u))
-                u[f] || a.append(f, "");
-              $.ajax({
-                url: i,
-                method: "POST",
-                processData: !1,
-                contentType: !1,
-                data: a,
-              })
-                .done(function () {
-                  t.hide(),
-                    o.find("> *").fadeOut(),
-                    o.find("[".concat(e, "=success]")).stop(1).fadeIn(),
-                    d &&
-                      setTimeout(function () {
-                        window.location.href = d;
-                      }, 1e3);
-                })
-                .fail(function () {
-                  t.hide(),
-                    o
-                      .find("[".concat(e, "=error]"))
-                      .stop(1)
-                      .fadeIn()
-                      .delay(3e3)
-                      .fadeOut();
-                });
-            };
-            (window.__formSubmit = n),
-              o(document.querySelectorAll("form"), function (e) {
-                var t = {};
-                o(e.elements, function (e) {
-                  e.name &&
-                    (t[e.name] = {
-                      type: e.type || "text",
-                      required: e.required,
-                    });
-                }),
-                  (e.__meta = t),
-                  (e.onsubmit = function (t) {
-                    return n(t, e);
-                  });
-              });
-          }),
-            window._jqloaded ? i() : window.postJQCnt.push(i);
-        },
-      });
-    </script>
-    <style>
-      a.page-brand-badge {
-        border-radius: 3px !important;
-        background-color: white !important;
-        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.1);
-        padding: 5px 7px !important;
-        font-family: Helvetica, sans-serif !important;
-        font-size: 12px !important;
-        text-decoration: none !important;
-        color: #555 !important;
-        transition: box-shadow 0.25s !important;
-      }
-      a.page-brand-badge:hover {
-        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 3px 10px rgba(0, 0, 0, 0.1);
-      }
-    </style>
-    <
-    <script
-      async
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"
-    ></script>
-  </body>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/parallax/jarallax.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+  <script src="assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/sociallikes/social-likes.js"></script>
+  <script src="assets/ytplayer/jquery.mb.ytplayer.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+
+
+</body>
 </html>
